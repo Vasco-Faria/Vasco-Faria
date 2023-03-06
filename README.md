@@ -19,5 +19,5 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vasco-faria&show_icons=true&count_private=true&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=c9d1d9&bg_color=0d1117" alt="vasco-faria" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasco-faria&show_icons=true&count_private=true&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=c9d1d9&bg_color=0d1117" alt="vasco-faria" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasco-faria&show_icons=true&count_private=true&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=c9d1d9&bg_color=0d1117&theme=dark" alt="vasco-faria" /></p>
 
