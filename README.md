@@ -16,7 +16,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasco-faria&show_icons=true&locale=en&layout=compact" alt="vasco-faria" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasco-faria&show_icons=true&locale=en" alt="vasco-faria" /></p>
+<p>&nbsp;<img align="center" color="black" src="https://github-readme-stats.vercel.app/api?username=vasco-faria&show_icons=true&locale=en" alt="vasco-faria" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasco-faria&" alt="vasco-faria" /></p>
 
