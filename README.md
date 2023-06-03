@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Today+is+the+first+day...;You+become+what+you+think&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Today+is+the+first+day...;You+become+what+you+think&center=true&size=25">
   </a>
  </div>
 
