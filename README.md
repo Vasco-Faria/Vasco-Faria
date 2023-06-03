@@ -3,6 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasco-faria&label=Profile%20views&color=0e75b6&style=flat" alt="vasco-faria" /> </p>
 
+<hr/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Today+is+the+first+day...;You+become+what+you+think&center=true&size=20">
+  </a>
+ </div>
+
+
+<hr>
+
 ## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/vascofaria09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vascofaria09" height="30" width="40" /></a>
