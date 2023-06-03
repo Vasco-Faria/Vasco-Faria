@@ -13,12 +13,13 @@
 
 <hr>
 
-## 🌐 Socials:
+# 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/vascofaria09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vascofaria09" height="30" width="40" /></a>
 <a href="https://fb.com/vasco miguel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vasco miguel" height="30" width="40" /></a>
 <a href="https://instagram.com/vasco.faria09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasco.faria09" height="30" width="40" /></a>
 <a href="https://discord.gg/F1SH✂魚Yú#6916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="F1SH✂魚Yú#6916" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vasco-faria-b428a2270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Vasco Faria" height="30" width="40" /></a>
 </p>
 
 <br>
