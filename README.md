@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vasco</h1>
+<h1 align="center">Hi, I'm Vasco</h1>
 <h3 align="center">Student of Software Engineering at Universidade de Aveiro</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasco-faria&label=Profile%20views&color=0e75b6&style=flat" alt="vasco-faria" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/vascofaria09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vascofaria09" height="30" width="40" /></a>
 <a href="https://fb.com/vasco miguel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vasco miguel" height="30" width="40" /></a>
