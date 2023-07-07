@@ -6,9 +6,7 @@
 <hr/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Today+is+the+first+day...;You+become+what+you+believe!!&center=true&size=23">
-  </a>
  </div>
 
 <hr>
