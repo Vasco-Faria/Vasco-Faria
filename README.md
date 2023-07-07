@@ -6,8 +6,8 @@
 <hr/>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Today+is+the+first+day...;You+become+what+you+believe!!&center=true&size=25">
- </div>
+    <img src="https://readme-typing-svg.demolab.com?font=Caprasimo&weight=600&size=40&pause=1000&color=FFCA72&center=true&vCenter=true&width=435&lines=Today+is+the+first+day...;You+become+what+you+believe!!" alt="Typing SVG" />
+</div>
 
 <hr>
 
