@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vasco</h1>
-<h3 align="center">Student of Software Engineering at Universidade de Aveiro</h3>
+<h3 align="center">Student of Software Engineering at Universidade do Minho</h3>
 
 <h5 align="center"><a href="https://vascomfaria.com/" target="_blank">https://vascomfaria.com/</a></h5>
 
