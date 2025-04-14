@@ -8,7 +8,7 @@
 <hr/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caprasimo&weight=600&size=30&pause=1000&color=FFCA72&center=true&vCenter=true&width=600&lines=Today+is+the+first+day....;You+become+what+you+believe!!" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Caprasimo&weight=600&size=30&pause=1000&color=FFCA72&center=true&vCenter=true&width=600&lines=Today+is+the+first+day....;Start+coding+and+enjoy!!" alt="Typing SVG" /></a>
 </div>
 
 <hr>
